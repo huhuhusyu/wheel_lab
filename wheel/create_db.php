@@ -2,6 +2,8 @@
 $host = "localhost";
 $user = "root";
 $pass = "";
+//comment
+//comment 2
 
 $conn = mysqli_connect($host, $user, $pass);
 if (!$conn)
